@@ -1,7 +1,7 @@
 # My Portfolio Page_using-bootstrap
 
 ## Author:
-Mayanja david Nsubuga
+**Mayanja David Nsubuga**
 
 ## Descrtption:
 My personal professional profile page  starts with my name as the main heading followed by a suitably sized photo. It contains sections on my biodata,contact information, education background, employment history and skills. Links to relevant accounts have also been included.
@@ -24,6 +24,6 @@ Redesign your portfolio page using boostrap and place it in a new repo called us
 * Project is in a polished, portfolio-quality state. 
 
 ## Link:
-
+https://dmayanja21.github.io/using-bootstrap/
 
 **Copyright @copy; Mayanja David**
