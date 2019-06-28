@@ -1,0 +1,55 @@
+body {
+	text-align: center;
+	width:95%;
+	height: auto;
+	margin: auto;
+	background:#696969;
+	padding: 5%;
+}
+ul{
+	text-align: left;
+}
+#footer {
+	background-color:#32CD32;
+	text-align:right;
+	clear: both;
+}
+table, th, td {
+	border: 1px solid black;
+	text-align: center;
+	padding: 5px;
+	border-collapse: collapse;
+} 
+thead{
+	background-color:#1E90FF;
+}
+h2 {
+	background:#4169E1;
+	color: #FFFFFF;
+}
+.jumbotron{
+	background:#8B0000;
+	color:#FFFFFF;
+}
+#navbar ul{
+	list-style-type: none;
+	text-align: center;
+}
+#contain{
+	background:#FFFAFA;
+	padding:5%;
+}
+#projects{
+	width:48%;
+	float: left;
+}
+#profile-link{
+	width:48%;
+	float: right;
+}
+#floatend{
+	clear: both;
+}
+#motivation{
+	clear: both;
+}
